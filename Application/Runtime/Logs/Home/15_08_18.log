@@ -1,0 +1,89 @@
+[ 2015-08-18T19:36:00+08:00 ] 118.212.154.69 /index.php/Category/categoryList?&callback=angular.callbacks._0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_category`  [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0003s ]
+
+[ 2015-08-18T19:37:33+08:00 ] 118.212.154.69 /index.php/Category/addSign?categoryid=3&signname=%E7%9B%8A%E6%99%BA&callback=angular.callbacks._1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000452s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_sign` WHERE `signname` = '益智'  [ RunTime:0.0002s ]
+SQL: INSERT INTO `bl_sign` (`signname`,`category`) VALUES ('益智','3') [ RunTime:0.0002s ]
+
+[ 2015-08-18T19:37:40+08:00 ] 118.212.154.69 /index.php/Category/categoryList?&callback=angular.callbacks._2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_category`  [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0001s ]
+
+[ 2015-08-18T19:40:19+08:00 ] 118.212.154.69 /index.php/Permission/permissionList?callback=angular.callbacks._3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_permission`  [ RunTime:0.0002s ]
+
+[ 2015-08-18T19:43:16+08:00 ] 118.212.154.69 /index.php/Category/categoryList?&callback=angular.callbacks._4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `bl_category`  [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0001s ]
+
+[ 2015-08-18T19:43:17+08:00 ] 118.212.154.69 /index.php/Category/categoryList?&callback=angular.callbacks._5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000356s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_category`  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0001s ]
+

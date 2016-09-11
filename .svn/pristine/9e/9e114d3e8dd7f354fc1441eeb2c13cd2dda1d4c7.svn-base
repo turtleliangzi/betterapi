@@ -1,0 +1,120 @@
+[ 2015-08-30T03:14:17+08:00 ] 121.42.0.16 /admin/control/wxpay.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+ERR: 无法加载模块:Admin
+
+[ 2015-08-30T03:14:20+08:00 ] 121.42.0.16 /mobile/control/member_ncsaing.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+ERR: 无法加载模块:Mobile
+
+[ 2015-08-30T03:14:22+08:00 ] 121.42.0.16 /images/info.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+ERR: 无法加载模块:Images
+
+[ 2015-08-30T03:14:25+08:00 ] 121.42.0.16 /plus/task/Cahe/inCahe.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+ERR: 无法加载模块:Plus
+
+[ 2015-08-30T03:14:29+08:00 ] 121.42.0.16 /js/Code.asp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000245s ]
+ERR: 无法加载模块:Js
+
+[ 2015-08-30T03:14:32+08:00 ] 121.42.0.16 /admin/sd_md5.asp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+ERR: 无法加载模块:Admin
+
+[ 2015-08-30T03:14:36+08:00 ] 121.42.0.16 /phpcms/languages/zh-cn/cnzz.lang.php?in=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+ERR: 无法加载模块:Phpcms
+
+[ 2015-08-30T03:14:42+08:00 ] 121.42.0.16 /uploadfile/2013/0425/cnzz.lang.php?in=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+ERR: 无法加载模块:Uploadfile
+
+[ 2015-08-30T03:14:47+08:00 ] 121.42.0.16 /uploadfile/2013/0418/cnzz.lang.php?in=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000298s ]
+ERR: 无法加载模块:Uploadfile
+
+[ 2015-08-30T03:14:53+08:00 ] 121.42.0.16 /core/api/taobao/3.1/api_b2b_3_1_csvfile.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+ERR: 无法加载模块:Core
+
+[ 2015-08-30T03:14:58+08:00 ] 121.42.0.16 /webs/include/helpers/cookie.helpea.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+ERR: 无法加载模块:Webs
+
+[ 2015-08-30T03:15:05+08:00 ] 121.42.0.16 /include/helpers/cookie.helpea.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+ERR: 无法加载模块:Include
+
+[ 2015-08-30T03:15:10+08:00 ] 121.42.0.16 /include/code/mp.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+ERR: 无法加载模块:Include
+
+[ 2015-08-30T03:15:15+08:00 ] 121.42.0.16 /inc/md5.asp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+ERR: 无法加载模块:Inc
+
+[ 2015-08-30T03:15:21+08:00 ] 121.42.0.16 /Lanrain/Lib/Model/User/Order_setMode.class.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000246s ]
+ERR: 无法加载模块:Lanrain
+
+[ 2015-08-30T03:15:26+08:00 ] 121.42.0.16 /external/widgets/advt/main.widget.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:External
+
+[ 2015-08-30T03:15:36+08:00 ] 121.42.0.16 /Cache/file_up.aspx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Cache
+
+[ 2015-08-30T03:15:39+08:00 ] 121.42.0.16 /languages/zh_cn/convert/shopex49.php?license_id=assert
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+ERR: 无法加载模块:Languages
+
+[ 2015-08-30T03:15:43+08:00 ] 121.42.0.16 /Include/NoHackSql.Asp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+ERR: 无法加载模块:Include
+
+[ 2015-08-30T03:15:48+08:00 ] 121.42.0.16 /config/NoHackSql.Asp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+ERR: 无法加载模块:Config
+

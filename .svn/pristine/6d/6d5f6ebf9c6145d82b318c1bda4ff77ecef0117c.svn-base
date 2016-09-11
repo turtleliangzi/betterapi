@@ -1,0 +1,60 @@
+[ 2015-10-04T13:21:13+08:00 ] 175.191.75.32 /mobile/articles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_article` WHERE `share` = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2015-10-04T13:56:37+08:00 ] 175.191.75.32 /mobile/articles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_article` WHERE `share` = 1  [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2015-10-04T13:56:58+08:00 ] 175.191.75.32 /mobile/articles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_article` WHERE `share` = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+

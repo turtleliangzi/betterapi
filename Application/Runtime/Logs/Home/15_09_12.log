@@ -1,0 +1,572 @@
+[ 2015-09-12T11:26:48+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000384s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:26:48+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 0,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:26:50+08:00 ] 117.43.154.233 /home/user/getadmins
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getAdmins - assumed 'getAdmins' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 16 行.
+
+[ 2015-09-12T11:26:50+08:00 ] 117.43.154.233 /home/user/getadmins
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000352s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant getAdmins - assumed 'getAdmins' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 1 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 1 ) ORDER BY registertime desc LIMIT 0,4   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:26:57+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:26:57+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000357s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 0,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:02+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:02+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 1,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:03+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:03+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000333s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 0,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:04+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:04+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000355s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 1,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:05+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000344s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:05+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 0,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:05+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:05+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000329s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 1,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:06+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000343s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:06+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000328s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 0,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:07+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:07+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 1,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:07+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000341s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:07+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000218s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 0,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:09+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000359s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:09+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000331s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 1,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:10+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:10+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000217s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 0,1   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:13+08:00 ] 117.43.154.233 /home/usergroup/grouplist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+SQL: SHOW COLUMNS FROM `bl_user_group` [ RunTime:0.0006s ]
+
+[ 2015-09-12T11:27:17+08:00 ] 117.43.154.233 /home/permission/permissionlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant permissionList - assumed 'permissionList' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:17+08:00 ] 117.43.154.233 /home/permission/permissionlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000273s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000413s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant permissionList - assumed 'permissionList' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_permission` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_permission` LIMIT 0,4   [ RunTime:0.0001s ]
+
+[ 2015-09-12T11:27:20+08:00 ] 117.43.154.233 /home/permission/disablepermission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant disablePermission - assumed 'disablePermission' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 28 行.
+
+[ 2015-09-12T11:27:20+08:00 ] 117.43.154.233 /home/permission/disablepermission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant disablePermission - assumed 'disablePermission' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_permission` WHERE `pid` = 1  [ RunTime:0.0002s ]
+SQL: UPDATE `bl_permission` SET `status`='0' WHERE `pid` = 1 [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:21+08:00 ] 117.43.154.233 /home/permission/disablepermission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant disablePermission - assumed 'disablePermission' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 28 行.
+
+[ 2015-09-12T11:27:21+08:00 ] 117.43.154.233 /home/permission/disablepermission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000424s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant disablePermission - assumed 'disablePermission' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 28 行.
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_permission` WHERE `pid` = 1  [ RunTime:0.0002s ]
+SQL: UPDATE `bl_permission` SET `status`='0' WHERE `pid` = 1 [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:25+08:00 ] 117.43.154.233 /home/permission/editpermission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000363s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant editPermission - assumed 'editPermission' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 20 行.
+
+[ 2015-09-12T11:27:26+08:00 ] 117.43.154.233 /home/permission/editpermission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000239s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000393s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant editPermission - assumed 'editPermission' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 20 行.
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_permission` WHERE `pid` = 1  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_permission` WHERE `pname` = '查资源'  [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: pid /var/www/betterapi/Application/Home/Logic/PermissionLogic.class.php 第 47 行.
+
+[ 2015-09-12T11:27:28+08:00 ] 117.43.154.233 /home/permission/permissionlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant permissionList - assumed 'permissionList' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:28+08:00 ] 117.43.154.233 /home/permission/permissionlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant permissionList - assumed 'permissionList' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_permission` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_permission` LIMIT 0,4   [ RunTime:0.0001s ]
+
+[ 2015-09-12T11:27:30+08:00 ] 117.43.154.233 /home/permission/enablepermission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant enablePermission - assumed 'enablePermission' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 24 行.
+
+[ 2015-09-12T11:27:30+08:00 ] 117.43.154.233 /home/permission/enablepermission
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant enablePermission - assumed 'enablePermission' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_permission` WHERE `pid` = 1  [ RunTime:0.0002s ]
+SQL: UPDATE `bl_permission` SET `status`='1' WHERE `pid` = 1 [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:32+08:00 ] 117.43.154.233 /home/permission/permissionlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant permissionList - assumed 'permissionList' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:32+08:00 ] 117.43.154.233 /home/permission/permissionlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000348s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant permissionList - assumed 'permissionList' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_permission` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_permission` LIMIT 0,4   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:37+08:00 ] 117.43.154.233 /home/permission/permissionlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant permissionList - assumed 'permissionList' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:37+08:00 ] 117.43.154.233 /home/permission/permissionlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000349s ]
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0004s ]
+NOTIC: [8] Use of undefined constant permissionList - assumed 'permissionList' /var/www/betterapi/Application/Home/Controller/PermissionController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_permission` [ RunTime:0.0003s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_permission` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_permission` LIMIT 0,4   [ RunTime:0.0002s ]
+
+[ 2015-09-12T11:27:41+08:00 ] 117.43.154.233 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-09-12T11:27:41+08:00 ] 117.43.154.233 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_category` LIMIT 0,4   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0001s ]
+
+[ 2015-09-12T11:27:48+08:00 ] 117.43.154.233 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000340s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-09-12T11:27:48+08:00 ] 117.43.154.233 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000361s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_category` LIMIT 0,4   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0001s ]
+
+[ 2015-09-12T11:27:57+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+
+[ 2015-09-12T11:27:57+08:00 ] 117.43.154.233 /home/user/getusers
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0005s ]
+NOTIC: [8] Use of undefined constant getUsers - assumed 'getUsers' /var/www/betterapi/Application/Home/Controller/UserController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_user` WHERE ( role = 0 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE ( role = 0 ) ORDER BY registertime desc LIMIT 0,1   [ RunTime:0.0002s ]
+

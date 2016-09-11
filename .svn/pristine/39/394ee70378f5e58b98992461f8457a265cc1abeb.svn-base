@@ -1,0 +1,367 @@
+[ 2015-10-23T14:27:14+08:00 ] 61.240.235.152 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-10-23T14:27:17+08:00 ] 61.240.235.152 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+ERR: 无法加载控制器:Index
+
+[ 2015-10-23T15:26:00+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000466s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T15:26:00+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_category` LIMIT 0,4   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:26:02+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T15:26:02+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_category` LIMIT 4,4   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='5' )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='6' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='7' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='8' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:26:03+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T15:26:04+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0008s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_category` LIMIT 8,4   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='9' )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='10' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='11' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:26:11+08:00 ] 182.96.181.216 /home/category/addsign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant addSign - assumed 'addSign' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 23 行.
+
+[ 2015-10-23T15:26:11+08:00 ] 182.96.181.216 /home/category/addsign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant addSign - assumed 'addSign' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 23 行.
+NOTIC: [8] Undefined index: category /var/www/betterapi/Application/Home/Model/CategoryModel.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `bl_sign` WHERE `signname` = '服务器' AND `category` = null  [ RunTime:0.0002s ]
+SQL: INSERT INTO `bl_sign` (`signname`,`category`) VALUES ('服务器','9') [ RunTime:0.0002s ]
+
+[ 2015-10-23T15:26:13+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T15:26:13+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000422s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_category` LIMIT 0,4   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T23:55:14+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T23:55:14+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_category` LIMIT 0,4   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T23:55:15+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T23:55:15+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_category` LIMIT 4,4   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='5' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='6' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='7' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='8' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T23:55:19+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000438s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T23:55:19+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000430s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_category` LIMIT 8,4   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='9' )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='10' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='11' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T23:55:25+08:00 ] 182.96.181.216 /home/category/addsign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant addSign - assumed 'addSign' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 23 行.
+
+[ 2015-10-23T23:55:25+08:00 ] 182.96.181.216 /home/category/addsign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant addSign - assumed 'addSign' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 23 行.
+NOTIC: [8] Undefined index: category /var/www/betterapi/Application/Home/Model/CategoryModel.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_sign` WHERE `signname` = 'nginx' AND `category` = null  [ RunTime:0.0002s ]
+SQL: INSERT INTO `bl_sign` (`signname`,`category`) VALUES ('nginx','9') [ RunTime:0.0002s ]
+
+[ 2015-10-23T23:55:27+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T23:55:27+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0009s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_category` LIMIT 0,4   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T23:55:29+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T23:55:30+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000275s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000400s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0006s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_category` LIMIT 8,4   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='9' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='10' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='11' )  [ RunTime:0.0002s ]
+
+[ 2015-10-23T23:55:33+08:00 ] 182.96.181.216 /home/category/addsign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000476s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant addSign - assumed 'addSign' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 23 行.
+
+[ 2015-10-23T23:55:34+08:00 ] 182.96.181.216 /home/category/addsign
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000480s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant addSign - assumed 'addSign' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 23 行.
+NOTIC: [8] Undefined index: category /var/www/betterapi/Application/Home/Model/CategoryModel.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_sign` WHERE `signname` = 'apache' AND `category` = null  [ RunTime:0.0002s ]
+SQL: INSERT INTO `bl_sign` (`signname`,`category`) VALUES ('apache','9') [ RunTime:0.0002s ]
+
+[ 2015-10-23T23:55:36+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+
+[ 2015-10-23T23:55:36+08:00 ] 182.96.181.216 /home/category/categorylist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0007s ]
+NOTIC: [8] Use of undefined constant categoryList - assumed 'categoryList' /var/www/betterapi/Application/Home/Controller/CategoryController.class.php 第 19 行.
+SQL: SHOW COLUMNS FROM `bl_category` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bl_category` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_category` LIMIT 0,4   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `bl_sign` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='1' )  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='2' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='3' )  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_sign` WHERE ( 1=1 AND category='4' )  [ RunTime:0.0002s ]
+

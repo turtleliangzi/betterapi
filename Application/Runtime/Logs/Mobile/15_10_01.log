@@ -1,0 +1,46 @@
+[ 2015-10-01T01:48:39+08:00 ] 223.104.10.4 /mobile/appupdate/update
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+
+[ 2015-10-01T17:58:36+08:00 ] 123.245.211.173 /mobile/articles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000360s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_article` WHERE `share` = 1  [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2015-10-01T20:26:52+08:00 ] 123.245.211.173 /mobile/articles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `bl_article` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `bl_article` WHERE `share` = 1  [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `bl_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `bl_user` WHERE `uid` = 25 LIMIT 1   [ RunTime:0.0001s ]
+
